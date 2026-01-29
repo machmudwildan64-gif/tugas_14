@@ -1,0 +1,8 @@
+body { font-family: sans-serif; background: #f4f4f4; padding: 20px; }
+.login-box, form { background: #fff; padding: 20px; max-width: 400px; margin: auto; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+input, select, button { width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ddd; border-radius: 5px; box-sizing: border-box; }
+button { background: #28a745; color: white; border: none; cursor: pointer; }
+table { width: 100%; background: #fff; border-collapse: collapse; }
+.error { color: red; }
+nav { margin-bottom: 20px; background: #333; color: #fff; padding: 10px; }
+nav a { color: #ffeb3b; text-decoration: none; }
